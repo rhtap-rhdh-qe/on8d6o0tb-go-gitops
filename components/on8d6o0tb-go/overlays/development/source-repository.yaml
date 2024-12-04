@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: on8d6o0tb-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/on8d6o0tb-go
